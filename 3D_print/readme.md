@@ -5,17 +5,8 @@
  - Hvordan renser man pladen
 # Plast typer
 ---
-PLA
-lasd,lsøkjfæsdflkghæsdfhjdfkjlgds
-sdf
-sdafa
-dsf
-dsaf
-asd
-fafdrsgsdf
-rgetrh
-rthnb
-rtyhbgtrsgvres
+## PLA
+### Hvad er PLA plast og hvad kan det bruges til
 ---
 
 
