@@ -51,6 +51,7 @@ Behøver ikke bruge enclosure
 **Extruder**  
 Temperatur: 190-220 °C  
 Ingen speciel hot-end  
+
 **Blæser**  
 Køling  
 Fan Speed: 100%
@@ -91,6 +92,9 @@ Enclosure/kabinet - behøves ikke
 **Extruder**  
 Temperatur: 230-250 °C  
 Ingen speciel hotend er nødvendig  
+
+**Blæser**  
+Blæser er anbefalet  
 
 # Søger du færdige 3d design så kig her
 [Færdige 3d filer](https://github.com/Simonk007/wiki/tree/master/3D_print/3d_faerdige_designs.md)
