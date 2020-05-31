@@ -1,4 +1,2 @@
 # Velkommen
-Det er mit første forsøge på at lave en form for Wiki på github.
-
-# 3D print
+Det er mit fÃ¸rste github repo
