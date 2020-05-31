@@ -7,7 +7,8 @@
 
 ## PLA
 ##### Hvad er PLA plast og hvad kan det bruges til
-
+PLA Filament er bioplast, fremstillet af miljøvenlige plantemateriale. Dette gør, at det er fødevaresikkert og biologisk nedbrydeligt. PLA filament er den mest miljøvenlige 3D-print materiale du kan finde. PLA nedbrydes naturligt, når de udsættes for miljøet. Hvis PLA er placeret i havet, det vil helt nedbrydes inden for 6 måneder til 2 år. Sammenlignet med konventionelle plastmaterialer, som tager 1000 år.
+PLA har et lavt smeltepunkt og egner sig derfor ikke til høje temperaturer. Fordelen er dog, at man kan printe ved lavere temperaturer, hvilket har positiv indvirkning på elregningen. Hos Jaco Import lagerfører vi et stort udvalg af PLA filament i mange farver til omgående levering. Kort sagt: Jaco Import er din danske ekspert indenfor PLA.
 ## PETG
 ##### Hvad er PETG plast og hvad kan det bruges til
 
