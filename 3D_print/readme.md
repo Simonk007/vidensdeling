@@ -18,6 +18,7 @@ God holdbarhed
 God dimensionel nøjagtighed  
 Behøver ikke heated bed - bedre strømforbrug  
 God til skarpe kanter og hjørner  
+
 **Ulemper**
 Lav varme resistent  
 Kan forekomme oozing og har brug for blæser  
@@ -25,6 +26,7 @@ Filamentet kan splintre og flække
 Ikke godt at bruge udenfor, da det ikke tåler for meget solpåvirkning  
 Skørt i struktur (glasagtigt)  
 Svært at efterbehandle (ingen acetone tricks)  
+
 **Generelt om materialet PLA**  
 PLA er et materiale, der er lige til at printe med for de fleste bruger, da det nemt at bruge, koster ikke så meget og det har en dimensionel nøjagtighed.Polylactic Acid, som er kendt som PLA er en af de mest populære materiale at printe i. Det kan printes ved lave temperatur og det er ikke nødvendigt med en heated bed. Det er også en af de mest miljøvenlige filamenter på markedet i dag da det er afledt af afgrøder som majs og sukkerrør. PLA er genanvendeligt og vigtigst af alt biologisk nedbrydelig. Som en bonus tillader dette også, at plasten giver en sød duft under udskrivning.  
 
