@@ -18,6 +18,15 @@ God holdbarhed
 God dimensionel nøjagtighed  
 Behøver ikke heated bed - bedre strømforbrug  
 God til skarpe kanter og hjørner  
+**Ulemper**
+Lav varme resistent  
+Kan forekomme oozing og har brug for blæser  
+Filamentet kan splintre og flække  
+Ikke godt at bruge udenfor, da det ikke tåler for meget solpåvirkning  
+Skørt i struktur (glasagtigt)  
+Svært at efterbehandle (ingen acetone tricks)
+**Generelt om materialet PLA**  
+
 
 ## PETG
 ##### Hvad er PETG plast og hvad kan det bruges til
