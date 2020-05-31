@@ -8,5 +8,9 @@
 ## PLA
 ##### Hvad er PLA plast og hvad kan det bruges til
 
+## PETG
+##### Hvad er PETG plast og hvad kan det bruges til
+
+
 # Søger du færdige 3d design så kig her
 [Færdige 3d filer](https://github.com/Simonk007/wiki/tree/master/3D_print/3d_faerdige_designs.md)
