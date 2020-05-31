@@ -19,7 +19,7 @@ God dimensionel nøjagtighed
 Behøver ikke heated bed - bedre strømforbrug  
 God til skarpe kanter og hjørner  
 
-**Ulemper**
+**Ulemper**  
 Lav varme resistent  
 Kan forekomme oozing og har brug for blæser  
 Filamentet kan splintre og flække  
