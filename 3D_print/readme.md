@@ -6,7 +6,7 @@
 # Plast typer
 ---
 ## PLA
-### Hvad er PLA plast og hvad kan det bruges til
+##### Hvad er PLA plast og hvad kan det bruges til
 ---
 
 
