@@ -3,6 +3,10 @@
  - Erfaringer
  - Plast typer
  - Hvordan renser man pladen
+# Plast typer
+---
+PLA
+
 
 
 # Søger du færdige 3d design så kig her
