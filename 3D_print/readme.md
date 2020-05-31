@@ -5,6 +5,9 @@
  - Hvordan renser man pladen
 # Plast typer
 
+## ABS
+##### Hvad er ABS plast og hvad kan det bruges til
+ABS er en oliebaseret termoplast, som ikke har nogen sand smeltepunkt, i stedet bliver ABS mere og mere blød som temperaturen stiger.
 ## PLA
 ##### Hvad er PLA plast og hvad kan det bruges til
 PLA Filament er bioplast, fremstillet af miljøvenlige plantemateriale. Dette gør, at det er fødevaresikkert og biologisk nedbrydeligt. PLA filament er den mest miljøvenlige 3D-print materiale du kan finde. PLA nedbrydes naturligt, når de udsættes for miljøet. Hvis PLA er placeret i havet, det vil helt nedbrydes inden for 6 måneder til 2 år. Sammenlignet med konventionelle plastmaterialer, som tager 1000 år.
