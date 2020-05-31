@@ -11,13 +11,13 @@ ABS er en oliebaseret termoplast, som ikke har nogen sand smeltepunkt, i stedet 
 
 ## PLA
 ##### Hvad er PLA plast og hvad kan det bruges til
-**Fordele**
-Koster ikke meget
-Stift og har en god styrke
-God holdbarhed
-God dimensionel nøjagtighed
-Behøver ikke heated bed - bedre strømforbrug
-God til skarpe kanter og hjørner
+**Fordele**  
+Koster ikke meget  
+Stift og har en god styrke  
+God holdbarhed  
+God dimensionel nøjagtighed  
+Behøver ikke heated bed - bedre strømforbrug  
+God til skarpe kanter og hjørner  
 
 ## PETG
 ##### Hvad er PETG plast og hvad kan det bruges til
