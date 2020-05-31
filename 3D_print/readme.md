@@ -42,10 +42,12 @@ PLA har en smeltetemperatur (glass transition) på omkring 60 grader C. og deform
 
 **Hardware Anbefalinger**  
 For at få det bedste resultat med at printe i PLA, skal du sikre dig følgende:  
-Bed 
+
+**Bed** 
 Temperatur: ca. 60 °C  
 Du behøver ikke heated bed  
 Behøver ikke bruge enclosure  
+
 **Extruder**  
 Temperatur: 190-220 °C  
 Ingen speciel hot-end  
@@ -56,7 +58,39 @@ Fan Speed: 100%
 
 ## PETG
 ##### Hvad er PETG plast og hvad kan det bruges til
+**Fordele**  
+Blank og glat overflade  
+God vedhæftning  
+Lugter næsten ikke under print processen  
+Meget slagfast og ofte et godt valg til mekaniske dele hvor ABS ikke er en mulighed.  
 
+**Ulemper**  
+Det kan trække tråde ved brodannelse/bridging
+Kan producere små plastik hår på overfladen fra stringing  
+Har en lidt “skinnende” overflade der ikke altid egner sig til show-and-tell emner.  
+
+**Generelt om materialet PETG**  
+PET og PETG filaments er kendt for, at de er nemme at printe med, den glatte overflade og at de er vandafvisende. PETG er et Glycol Modified version af Polyethylene Terephthalate (PET), hvilket normalt bliver brugt i ex. vandflasker. Det er et semi-rigid materiale med god slagfasthed, men en mere blød overflade, hvilket kan give en mere sårbar overflade ved nogle anvendelser.  
+
+Materialet har også termiske gode fordele, da det tillader plastikken at køle effektivt uden at give warping. Der er flere variationer af dette materiale inkl. PETG, PETE, and PETT.  
+
+Den glatte overflade er specielt brugbar, hvis du bruger raft. Da er raft og emnet nemt at skille ad, og emnet bliver ved med at have en flot overflade.  
+
+Prøv at slå din blæser fra ved de første få lag af dit print, for at undgå warping. Dette trick virker rigtig godt ved store print.  
+
+Vi forhandler mange forskellige farver i 3DE Premium PETG, som både finde i 1.75mm og 2.85mm, med 1kg filament på spolen - se mere her!  
+
+**Hardware Anbefalinger**   
+For at få det bedste resultat med at printe i PETG, skal du sikre dig følgende:  
+
+**Bed**
+Temperatur: 70-80 °C  
+Heated Bed - anbefales, men kan godt anvendes uden  
+Enclosure/kabinet - behøves ikke  
+
+**Extruder**  
+Temperatur: 230-250 °C  
+Ingen speciel hotend er nødvendig  
 
 # Søger du færdige 3d design så kig her
 [Færdige 3d filer](https://github.com/Simonk007/wiki/tree/master/3D_print/3d_faerdige_designs.md)
